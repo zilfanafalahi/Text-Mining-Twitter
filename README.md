@@ -9,7 +9,7 @@ Nama Kelompok :
 3. Zilfana Falahi
 
 
-learn code from 
+Learn code from : 
 
 1.  https://github.com/zetc0de/twcoeg
 2.  Purbo, Onno W.. 2019. Text Mining - Analisis MedSos, Kekuatan Brand & Intelejen di Internet. Yogyakarta : Penerbit ANDI.
