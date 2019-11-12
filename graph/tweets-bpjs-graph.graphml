@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <graphml xmlns="http://graphml.graphdrawing.org/xmlns"> 
+ <key id="d0" for="edge" attr.name="weight" attr.type="double"/> 
+ <graph id="G" edgedefault="undirected"><node id="cakep"/>
+<node id="gift"/>
+<node id="new"/>
+<node id="leader"/>
+<node id="tell"/>
+<node id="try"/>
+<node id="better"/>
+<node id="encourage"/>
+<node id="go"/>
+<node id="seek"/>
+<node id="professional"/>
+<node id="wealth"/>
+<node id="tax"/>
+<node id="fight"/>
+<node id="evasion"/>
+<node id="fix"/>
+<node id="healthcare"/>
+<node id="raise"/>
+<node id="excise"/>
+<node id="taxes"/>
+<node id="solo"/>
+<node id="standing"/>
+<node id="wilayah"/>
+<node id="even"/>
+<node id="bpjs"/>
+<node id="cover"/>
+<node id="meme"/>
+<node id="moal"/>
+<node id="make"/>
+<node id="bikin"/>
+<node id="capital"/>
+<node id="dki"/>
+<node id="jokowi"/>
+<node id="increases"/>
+<node id="premium"/>
+<node id="percent"/>
+<node id="starting"/>
+<node id="january"/>
+<node id="next"/>
+<node id="year"/>
+<node id="oh"/>
+<node id="dear"/>
+<node id="loses"/>
+<node id="plot"/>
+<node id="increasing"/>
+<node id="informal"/>
+<node id="sector"/>
+<node id="household"/>
+<node id="watch"/>
+<node id="coverage"/>
+<node id="indonesia"/>
+<node id="learn"/>
+<node id="thailand"/>
+<node id="malaysia"/>
+<node id="finance"/>
+<node id="health"/>
+<node id="system"/>
+<node id="proven"/>
+<node id="route"/>
+<node id="victoria"/>
+<node id="serious"/>
+<node id="must"/>
+<node id="decline"/>
+<node id="workers"/>
+<node id="resisting"/>
+<node id="hikes"/>
+<node id="insurance"/>
+<node id="general"/>
+<node id="taxation"/>
+<node id="scholarship"/>
+<node id="awardee"/>
+<node id="pk"/>
+<node id="discount"/>
+<node id="case"/>
+<node id="jawa"/>
+<node id="hike"/>
+<node id="may"/>
+<node id="wipe"/>
+<node id="deficit"/>
+<node id="djsn"/>
+<node id="falls"/>
+<node id="ditto"/>
+<node id="stroke"/>
+<node id="three"/>
+<node id="four"/>
+<node id="years"/>
+<node id="ago"/>
+<node id="family"/>
+<node id="premiums"/>
+<node id="made"/>
+<node id="realize"/>
+<node id="large"/>
+<node id="correct"/>
+<node id="decision"/>
+<node id="far"/>
+<node id="away"/>
+<node id="manage"/>
+<node id="government"/>
+<node id="imposes"/>
+<node id="contribution"/>
+<node id="increase"/>
+<node id="people"/>
+<node id="pasuruan"/>
+<node id="manga"/>
+<node id="mister"/>
+<node id="clams"/>
+<node id="belitong"/>
+<node id="contributions"/>
+<node id="cikarang"/>
+<node id="mecca"/>
+<node id="north"/>
+<edge id="48" source="tell" target="try"><data key="d0"></data></edge>
+<edge id="49" source="tell" target="better"><data key="d0"></data></edge>
+<edge id="50" source="tell" target="encourage"><data key="d0"></data></edge>
+<edge id="51" source="tell" target="go"><data key="d0"></data></edge>
+<edge id="52" source="try" target="better"><data key="d0"></data></edge>
+<edge id="53" source="try" target="encourage"><data key="d0"></data></edge>
+<edge id="54" source="try" target="go"><data key="d0"></data></edge>
+<edge id="55" source="try" target="seek"><data key="d0"></data></edge>
+<edge id="60" source="encourage" target="go"><data key="d0"></data></edge>
+<edge id="61" source="encourage" target="seek"><data key="d0"></data></edge>
+<edge id="62" source="encourage" target="professional"><data key="d0"></data></edge>
+<edge id="63" source="encourage" target="wealth"><data key="d0"></data></edge>
+<edge id="64" source="go" target="seek"><data key="d0"></data></edge>
+<edge id="65" source="go" target="professional"><data key="d0"></data></edge>
+<edge id="66" source="go" target="wealth"><data key="d0"></data></edge>
+<edge id="67" source="go" target="tax"><data key="d0"></data></edge>
+<edge id="68" source="seek" target="professional"><data key="d0"></data></edge>
+<edge id="69" source="seek" target="wealth"><data key="d0"></data></edge>
+<edge id="70" source="seek" target="tax"><data key="d0"></data></edge>
+<edge id="71" source="seek" target="fight"><data key="d0"></data></edge>
+<edge id="72" source="professional" target="wealth"><data key="d0"></data></edge>
+<edge id="74" source="professional" target="fight"><data key="d0"></data></edge>
+<edge id="156" source="solo" target="standing"><data key="d0"></data></edge>
+<edge id="157" source="solo" target="wealth"><data key="d0"></data></edge>
+<edge id="158" source="solo" target="tax"><data key="d0"></data></edge>
+<edge id="159" source="solo" target="fight"><data key="d0"></data></edge>
+<edge id="160" source="standing" target="wealth"><data key="d0"></data></edge>
+<edge id="162" source="standing" target="fight"><data key="d0"></data></edge>
+<edge id="244" source="wilayah" target="wealth"><data key="d0"></data></edge>
+<edge id="246" source="wilayah" target="fight"><data key="d0"></data></edge>
+<edge id="288" source="even" target="bpjs"><data key="d0"></data></edge>
+<edge id="289" source="even" target="cover"><data key="d0"></data></edge>
+<edge id="290" source="even" target="meme"><data key="d0"></data></edge>
+<edge id="291" source="even" target="wealth"><data key="d0"></data></edge>
+<edge id="296" source="cover" target="meme"><data key="d0"></data></edge>
+<edge id="297" source="cover" target="wealth"><data key="d0"></data></edge>
+<edge id="298" source="cover" target="tax"><data key="d0"></data></edge>
+<edge id="299" source="cover" target="fight"><data key="d0"></data></edge>
+<edge id="348" source="moal" target="make"><data key="d0"></data></edge>
+<edge id="349" source="moal" target="bpjs"><data key="d0"></data></edge>
+<edge id="350" source="moal" target="bikin"><data key="d0"></data></edge>
+<edge id="351" source="moal" target="wealth"><data key="d0"></data></edge>
+<edge id="352" source="make" target="bpjs"><data key="d0"></data></edge>
+<edge id="353" source="make" target="bikin"><data key="d0"></data></edge>
+<edge id="354" source="make" target="wealth"><data key="d0"></data></edge>
+<edge id="355" source="make" target="tax"><data key="d0"></data></edge>
+<edge id="360" source="bikin" target="wealth"><data key="d0"></data></edge>
+<edge id="362" source="bikin" target="fight"><data key="d0"></data></edge>
+<edge id="1180" source="oh" target="dear"><data key="d0"></data></edge>
+<edge id="1181" source="oh" target="loses"><data key="d0"></data></edge>
+<edge id="1182" source="oh" target="plot"><data key="d0"></data></edge>
+<edge id="1183" source="oh" target="increasing"><data key="d0"></data></edge>
+<edge id="1384" source="learn" target="thailand"><data key="d0"></data></edge>
+<edge id="1385" source="learn" target="malaysia"><data key="d0"></data></edge>
+<edge id="1386" source="learn" target="tax"><data key="d0"></data></edge>
+<edge id="1387" source="learn" target="finance"><data key="d0"></data></edge>
+<edge id="1388" source="thailand" target="malaysia"><data key="d0"></data></edge>
+<edge id="1389" source="thailand" target="tax"><data key="d0"></data></edge>
+<edge id="1390" source="thailand" target="finance"><data key="d0"></data></edge>
+<edge id="1391" source="thailand" target="health"><data key="d0"></data></edge>
+<edge id="1392" source="malaysia" target="tax"><data key="d0"></data></edge>
+<edge id="1393" source="malaysia" target="finance"><data key="d0"></data></edge>
+<edge id="1394" source="malaysia" target="health"><data key="d0"></data></edge>
+<edge id="1395" source="malaysia" target="system"><data key="d0"></data></edge>
+<edge id="1408" source="system" target="proven"><data key="d0"></data></edge>
+<edge id="1409" source="system" target="route"><data key="d0"></data></edge>
+<edge id="1410" source="system" target="victoria"><data key="d0"></data></edge>
+<edge id="1411" source="system" target="indonesia"><data key="d0"></data></edge>
+<edge id="1412" source="proven" target="route"><data key="d0"></data></edge>
+<edge id="1413" source="proven" target="victoria"><data key="d0"></data></edge>
+<edge id="1414" source="proven" target="indonesia"><data key="d0"></data></edge>
+<edge id="1415" source="proven" target="serious"><data key="d0"></data></edge>
+<edge id="1416" source="route" target="victoria"><data key="d0"></data></edge>
+<edge id="1417" source="route" target="indonesia"><data key="d0"></data></edge>
+<edge id="1418" source="route" target="serious"><data key="d0"></data></edge>
+<edge id="1419" source="route" target="must"><data key="d0"></data></edge>
+<edge id="1420" source="victoria" target="indonesia"><data key="d0"></data></edge>
+<edge id="1421" source="victoria" target="serious"><data key="d0"></data></edge>
+<edge id="1422" source="victoria" target="must"><data key="d0"></data></edge>
+<edge id="1423" source="victoria" target="tax"><data key="d0"></data></edge>
+<edge id="1460" source="workers" target="resisting"><data key="d0"></data></edge>
+<edge id="1461" source="workers" target="hikes"><data key="d0"></data></edge>
+<edge id="1462" source="workers" target="health"><data key="d0"></data></edge>
+<edge id="1463" source="workers" target="insurance"><data key="d0"></data></edge>
+<edge id="1464" source="resisting" target="hikes"><data key="d0"></data></edge>
+<edge id="1465" source="resisting" target="health"><data key="d0"></data></edge>
+<edge id="1466" source="resisting" target="insurance"><data key="d0"></data></edge>
+<edge id="1467" source="resisting" target="general"><data key="d0"></data></edge>
+<edge id="1468" source="hikes" target="health"><data key="d0"></data></edge>
+<edge id="1469" source="hikes" target="insurance"><data key="d0"></data></edge>
+<edge id="1470" source="hikes" target="general"><data key="d0"></data></edge>
+<edge id="1471" source="hikes" target="taxation"><data key="d0"></data></edge>
+<edge id="1476" source="insurance" target="general"><data key="d0"></data></edge>
+<edge id="1477" source="insurance" target="taxation"><data key="d0"></data></edge>
+<edge id="1478" source="insurance" target="better"><data key="d0"></data></edge>
+<edge id="1479" source="insurance" target="indonesia"><data key="d0"></data></edge>
+<edge id="1480" source="general" target="taxation"><data key="d0"></data></edge>
+<edge id="1481" source="general" target="better"><data key="d0"></data></edge>
+<edge id="1482" source="general" target="indonesia"><data key="d0"></data></edge>
+<edge id="1483" source="general" target="serious"><data key="d0"></data></edge>
+<edge id="1484" source="taxation" target="better"><data key="d0"></data></edge>
+<edge id="1485" source="taxation" target="indonesia"><data key="d0"></data></edge>
+<edge id="1486" source="taxation" target="serious"><data key="d0"></data></edge>
+<edge id="1487" source="taxation" target="must"><data key="d0"></data></edge>
+<edge id="1684" source="scholarship" target="awardee"><data key="d0"></data></edge>
+<edge id="1685" source="scholarship" target="pk"><data key="d0"></data></edge>
+<edge id="1686" source="scholarship" target="wealth"><data key="d0"></data></edge>
+<edge id="1687" source="scholarship" target="tax"><data key="d0"></data></edge>
+<edge id="1688" source="awardee" target="pk"><data key="d0"></data></edge>
+<edge id="1689" source="awardee" target="wealth"><data key="d0"></data></edge>
+<edge id="1690" source="awardee" target="tax"><data key="d0"></data></edge>
+<edge id="1691" source="awardee" target="fight"><data key="d0"></data></edge>
+<edge id="1692" source="pk" target="wealth"><data key="d0"></data></edge>
+<edge id="1694" source="pk" target="fight"><data key="d0"></data></edge>
+<edge id="1776" source="discount" target="wealth"><data key="d0"></data></edge>
+<edge id="1778" source="discount" target="fight"><data key="d0"></data></edge>
+<edge id="1900" source="case" target="wealth"><data key="d0"></data></edge>
+<edge id="1902" source="case" target="fight"><data key="d0"></data></edge>
+<edge id="2252" source="may" target="wipe"><data key="d0"></data></edge>
+<edge id="2253" source="may" target="deficit"><data key="d0"></data></edge>
+<edge id="2254" source="may" target="djsn"><data key="d0"></data></edge>
+<edge id="2255" source="may" target="falls"><data key="d0"></data></edge>
+<edge id="2256" source="wipe" target="deficit"><data key="d0"></data></edge>
+<edge id="2257" source="wipe" target="djsn"><data key="d0"></data></edge>
+<edge id="2258" source="wipe" target="falls"><data key="d0"></data></edge>
+<edge id="2259" source="wipe" target="wealth"><data key="d0"></data></edge>
+<edge id="2260" source="deficit" target="djsn"><data key="d0"></data></edge>
+<edge id="2261" source="deficit" target="falls"><data key="d0"></data></edge>
+<edge id="2262" source="deficit" target="wealth"><data key="d0"></data></edge>
+<edge id="2263" source="deficit" target="tax"><data key="d0"></data></edge>
+<edge id="2264" source="djsn" target="falls"><data key="d0"></data></edge>
+<edge id="2265" source="djsn" target="wealth"><data key="d0"></data></edge>
+<edge id="2266" source="djsn" target="tax"><data key="d0"></data></edge>
+<edge id="2267" source="djsn" target="fight"><data key="d0"></data></edge>
+<edge id="2268" source="falls" target="wealth"><data key="d0"></data></edge>
+<edge id="2270" source="falls" target="fight"><data key="d0"></data></edge>
+<edge id="2656" source="ditto" target="stroke"><data key="d0"></data></edge>
+<edge id="2657" source="ditto" target="three"><data key="d0"></data></edge>
+<edge id="2658" source="ditto" target="four"><data key="d0"></data></edge>
+<edge id="2659" source="ditto" target="years"><data key="d0"></data></edge>
+<edge id="2660" source="stroke" target="three"><data key="d0"></data></edge>
+<edge id="2661" source="stroke" target="four"><data key="d0"></data></edge>
+<edge id="2662" source="stroke" target="years"><data key="d0"></data></edge>
+<edge id="2663" source="stroke" target="ago"><data key="d0"></data></edge>
+<edge id="2664" source="three" target="four"><data key="d0"></data></edge>
+<edge id="2665" source="three" target="years"><data key="d0"></data></edge>
+<edge id="2666" source="three" target="ago"><data key="d0"></data></edge>
+<edge id="2667" source="three" target="family"><data key="d0"></data></edge>
+<edge id="2668" source="four" target="years"><data key="d0"></data></edge>
+<edge id="2669" source="four" target="ago"><data key="d0"></data></edge>
+<edge id="2670" source="four" target="family"><data key="d0"></data></edge>
+<edge id="2671" source="four" target="wealth"><data key="d0"></data></edge>
+<edge id="2672" source="years" target="ago"><data key="d0"></data></edge>
+<edge id="2673" source="years" target="family"><data key="d0"></data></edge>
+<edge id="2674" source="years" target="wealth"><data key="d0"></data></edge>
+<edge id="2675" source="years" target="tax"><data key="d0"></data></edge>
+<edge id="2676" source="ago" target="family"><data key="d0"></data></edge>
+<edge id="2677" source="ago" target="wealth"><data key="d0"></data></edge>
+<edge id="2678" source="ago" target="tax"><data key="d0"></data></edge>
+<edge id="2679" source="ago" target="fight"><data key="d0"></data></edge>
+<edge id="2980" source="premiums" target="bpjs"><data key="d0"></data></edge>
+<edge id="2981" source="premiums" target="made"><data key="d0"></data></edge>
+<edge id="2982" source="premiums" target="realize"><data key="d0"></data></edge>
+<edge id="2983" source="premiums" target="family"><data key="d0"></data></edge>
+<edge id="2988" source="made" target="realize"><data key="d0"></data></edge>
+<edge id="2989" source="made" target="family"><data key="d0"></data></edge>
+<edge id="2990" source="made" target="large"><data key="d0"></data></edge>
+<edge id="2991" source="made" target="correct"><data key="d0"></data></edge>
+<edge id="2992" source="realize" target="family"><data key="d0"></data></edge>
+<edge id="2993" source="realize" target="large"><data key="d0"></data></edge>
+<edge id="2994" source="realize" target="correct"><data key="d0"></data></edge>
+<edge id="2995" source="realize" target="decision"><data key="d0"></data></edge>
+<edge id="3000" source="large" target="correct"><data key="d0"></data></edge>
+<edge id="3001" source="large" target="decision"><data key="d0"></data></edge>
+<edge id="3002" source="large" target="wealth"><data key="d0"></data></edge>
+<edge id="3003" source="large" target="tax"><data key="d0"></data></edge>
+<edge id="3004" source="correct" target="decision"><data key="d0"></data></edge>
+<edge id="3005" source="correct" target="wealth"><data key="d0"></data></edge>
+<edge id="3006" source="correct" target="tax"><data key="d0"></data></edge>
+<edge id="3007" source="correct" target="fight"><data key="d0"></data></edge>
+<edge id="3008" source="decision" target="wealth"><data key="d0"></data></edge>
+<edge id="3010" source="decision" target="fight"><data key="d0"></data></edge>
+<edge id="3212" source="far" target="away"><data key="d0"></data></edge>
+<edge id="3213" source="far" target="wealth"><data key="d0"></data></edge>
+<edge id="3214" source="far" target="tax"><data key="d0"></data></edge>
+<edge id="3215" source="far" target="fight"><data key="d0"></data></edge>
+<edge id="3216" source="away" target="wealth"><data key="d0"></data></edge>
+<edge id="3218" source="away" target="fight"><data key="d0"></data></edge>
+<edge id="3476" source="contribution" target="increase"><data key="d0"></data></edge>
+<edge id="3477" source="contribution" target="people"><data key="d0"></data></edge>
+<edge id="3478" source="contribution" target="wealth"><data key="d0"></data></edge>
+<edge id="3479" source="contribution" target="tax"><data key="d0"></data></edge>
+<edge id="3484" source="people" target="wealth"><data key="d0"></data></edge>
+<edge id="3486" source="people" target="fight"><data key="d0"></data></edge>
+<edge id="3772" source="pasuruan" target="jawa"><data key="d0"></data></edge>
+<edge id="3773" source="pasuruan" target="wealth"><data key="d0"></data></edge>
+<edge id="3774" source="pasuruan" target="tax"><data key="d0"></data></edge>
+<edge id="3775" source="pasuruan" target="fight"><data key="d0"></data></edge>
+<edge id="4156" source="manga" target="wealth"><data key="d0"></data></edge>
+<edge id="4158" source="manga" target="fight"><data key="d0"></data></edge>
+<edge id="4400" source="mister" target="clams"><data key="d0"></data></edge>
+<edge id="4401" source="mister" target="wealth"><data key="d0"></data></edge>
+<edge id="4402" source="mister" target="tax"><data key="d0"></data></edge>
+<edge id="4403" source="mister" target="fight"><data key="d0"></data></edge>
+<edge id="4404" source="clams" target="wealth"><data key="d0"></data></edge>
+<edge id="4406" source="clams" target="fight"><data key="d0"></data></edge>
+<edge id="4732" source="belitong" target="wealth"><data key="d0"></data></edge>
+<edge id="4734" source="belitong" target="fight"><data key="d0"></data></edge>
+<edge id="4796" source="contributions" target="wealth"><data key="d0"></data></edge>
+<edge id="4798" source="contributions" target="fight"><data key="d0"></data></edge>
+<edge id="5004" source="cikarang" target="wealth"><data key="d0"></data></edge>
+<edge id="5006" source="cikarang" target="fight"><data key="d0"></data></edge>
+<edge id="5092" source="mecca" target="north"><data key="d0"></data></edge>
+<edge id="5093" source="mecca" target="wealth"><data key="d0"></data></edge>
+<edge id="5094" source="mecca" target="tax"><data key="d0"></data></edge>
+<edge id="5095" source="mecca" target="fight"><data key="d0"></data></edge>
+<edge id="5096" source="north" target="wealth"><data key="d0"></data></edge>
+<edge id="5098" source="north" target="fight"><data key="d0"></data></edge>
+<edge id="5276" source="cakep" target="gift"><data key="d0">8.0</data></edge>
+<edge id="5277" source="cakep" target="new"><data key="d0">8.0</data></edge>
+<edge id="5278" source="cakep" target="leader"><data key="d0">8.0</data></edge>
+<edge id="5279" source="cakep" target="cakep"><data key="d0">8.0</data></edge>
+<edge id="5280" source="gift" target="new"><data key="d0">8.0</data></edge>
+<edge id="5281" source="gift" target="leader"><data key="d0">8.0</data></edge>
+<edge id="5282" source="gift" target="cakep"><data key="d0">8.0</data></edge>
+<edge id="5283" source="gift" target="gift"><data key="d0">8.0</data></edge>
+<edge id="5284" source="new" target="leader"><data key="d0">8.0</data></edge>
+<edge id="5285" source="new" target="cakep"><data key="d0">8.0</data></edge>
+<edge id="5286" source="new" target="gift"><data key="d0">8.0</data></edge>
+<edge id="5287" source="new" target="new"><data key="d0">8.0</data></edge>
+<edge id="5288" source="leader" target="cakep"><data key="d0">8.0</data></edge>
+<edge id="5289" source="leader" target="gift"><data key="d0">8.0</data></edge>
+<edge id="5290" source="leader" target="new"><data key="d0">8.0</data></edge>
+<edge id="5291" source="leader" target="leader"><data key="d0">8.0</data></edge>
+<edge id="5292" source="better" target="encourage"><data key="d0">2.0</data></edge>
+<edge id="5293" source="better" target="go"><data key="d0">2.0</data></edge>
+<edge id="5294" source="better" target="seek"><data key="d0">2.0</data></edge>
+<edge id="5295" source="better" target="professional"><data key="d0">2.0</data></edge>
+<edge id="5296" source="professional" target="tax"><data key="d0">2.0</data></edge>
+<edge id="5297" source="wealth" target="tax"><data key="d0">222.0</data></edge>
+<edge id="5298" source="wealth" target="fight"><data key="d0">111.0</data></edge>
+<edge id="5299" source="wealth" target="evasion"><data key="d0">111.0</data></edge>
+<edge id="5300" source="tax" target="fight"><data key="d0">225.0</data></edge>
+<edge id="5301" source="tax" target="tax"><data key="d0">225.0</data></edge>
+<edge id="5302" source="tax" target="evasion"><data key="d0">225.0</data></edge>
+<edge id="5303" source="tax" target="fix"><data key="d0">225.0</data></edge>
+<edge id="5304" source="fight" target="tax"><data key="d0">111.0</data></edge>
+<edge id="5305" source="fight" target="evasion"><data key="d0">111.0</data></edge>
+<edge id="5306" source="fight" target="fix"><data key="d0">111.0</data></edge>
+<edge id="5307" source="fight" target="healthcare"><data key="d0">111.0</data></edge>
+<edge id="5308" source="evasion" target="fix"><data key="d0">111.0</data></edge>
+<edge id="5309" source="evasion" target="healthcare"><data key="d0">111.0</data></edge>
+<edge id="5310" source="evasion" target="raise"><data key="d0">111.0</data></edge>
+<edge id="5311" source="evasion" target="excise"><data key="d0">111.0</data></edge>
+<edge id="5312" source="fix" target="healthcare"><data key="d0">111.0</data></edge>
+<edge id="5313" source="fix" target="raise"><data key="d0">111.0</data></edge>
+<edge id="5314" source="fix" target="excise"><data key="d0">111.0</data></edge>
+<edge id="5315" source="fix" target="taxes"><data key="d0">111.0</data></edge>
+<edge id="5316" source="healthcare" target="raise"><data key="d0">111.0</data></edge>
+<edge id="5317" source="healthcare" target="excise"><data key="d0">111.0</data></edge>
+<edge id="5318" source="healthcare" target="taxes"><data key="d0">111.0</data></edge>
+<edge id="5319" source="healthcare" target="wealth"><data key="d0">111.0</data></edge>
+<edge id="5320" source="raise" target="excise"><data key="d0">111.0</data></edge>
+<edge id="5321" source="raise" target="taxes"><data key="d0">111.0</data></edge>
+<edge id="5322" source="raise" target="wealth"><data key="d0">111.0</data></edge>
+<edge id="5323" source="raise" target="tax"><data key="d0">111.0</data></edge>
+<edge id="5324" source="excise" target="taxes"><data key="d0">111.0</data></edge>
+<edge id="5325" source="excise" target="wealth"><data key="d0">111.0</data></edge>
+<edge id="5326" source="excise" target="tax"><data key="d0">111.0</data></edge>
+<edge id="5327" source="excise" target="fight"><data key="d0">111.0</data></edge>
+<edge id="5328" source="taxes" target="wealth"><data key="d0">111.0</data></edge>
+<edge id="5329" source="taxes" target="tax"><data key="d0">222.0</data></edge>
+<edge id="5330" source="taxes" target="fight"><data key="d0">111.0</data></edge>
+<edge id="5331" source="standing" target="tax"><data key="d0">2.0</data></edge>
+<edge id="5332" source="wilayah" target="tax"><data key="d0">2.0</data></edge>
+<edge id="5333" source="bpjs" target="cover"><data key="d0">8.0</data></edge>
+<edge id="5334" source="bpjs" target="meme"><data key="d0">8.0</data></edge>
+<edge id="5335" source="bpjs" target="wealth"><data key="d0">8.0</data></edge>
+<edge id="5336" source="bpjs" target="tax"><data key="d0">8.0</data></edge>
+<edge id="5337" source="meme" target="wealth"><data key="d0">2.0</data></edge>
+<edge id="5338" source="meme" target="tax"><data key="d0">4.0</data></edge>
+<edge id="5339" source="meme" target="fight"><data key="d0">2.0</data></edge>
+<edge id="5340" source="bikin" target="tax"><data key="d0">2.0</data></edge>
+<edge id="5341" source="capital" target="wealth"><data key="d0">5.0</data></edge>
+<edge id="5342" source="capital" target="tax"><data key="d0">10.0</data></edge>
+<edge id="5343" source="capital" target="fight"><data key="d0">5.0</data></edge>
+<edge id="5344" source="dki" target="jokowi"><data key="d0">3.0</data></edge>
+<edge id="5345" source="dki" target="increases"><data key="d0">3.0</data></edge>
+<edge id="5346" source="dki" target="bpjs"><data key="d0">3.0</data></edge>
+<edge id="5347" source="dki" target="premium"><data key="d0">3.0</data></edge>
+<edge id="5348" source="jokowi" target="increases"><data key="d0">3.0</data></edge>
+<edge id="5349" source="jokowi" target="bpjs"><data key="d0">3.0</data></edge>
+<edge id="5350" source="jokowi" target="premium"><data key="d0">3.0</data></edge>
+<edge id="5351" source="jokowi" target="percent"><data key="d0">3.0</data></edge>
+<edge id="5352" source="increases" target="bpjs"><data key="d0">4.0</data></edge>
+<edge id="5353" source="increases" target="premium"><data key="d0">4.0</data></edge>
+<edge id="5354" source="increases" target="percent"><data key="d0">4.0</data></edge>
+<edge id="5355" source="increases" target="starting"><data key="d0">4.0</data></edge>
+<edge id="5356" source="premium" target="percent"><data key="d0">5.0</data></edge>
+<edge id="5357" source="premium" target="starting"><data key="d0">5.0</data></edge>
+<edge id="5358" source="premium" target="january"><data key="d0">5.0</data></edge>
+<edge id="5359" source="premium" target="next"><data key="d0">5.0</data></edge>
+<edge id="5360" source="percent" target="starting"><data key="d0">4.0</data></edge>
+<edge id="5361" source="percent" target="january"><data key="d0">4.0</data></edge>
+<edge id="5362" source="percent" target="next"><data key="d0">4.0</data></edge>
+<edge id="5363" source="percent" target="year"><data key="d0">4.0</data></edge>
+<edge id="5364" source="starting" target="january"><data key="d0">4.0</data></edge>
+<edge id="5365" source="starting" target="next"><data key="d0">4.0</data></edge>
+<edge id="5366" source="starting" target="year"><data key="d0">4.0</data></edge>
+<edge id="5367" source="starting" target="wealth"><data key="d0">4.0</data></edge>
+<edge id="5368" source="january" target="next"><data key="d0">4.0</data></edge>
+<edge id="5369" source="january" target="year"><data key="d0">4.0</data></edge>
+<edge id="5370" source="january" target="wealth"><data key="d0">4.0</data></edge>
+<edge id="5371" source="january" target="tax"><data key="d0">4.0</data></edge>
+<edge id="5372" source="next" target="year"><data key="d0">4.0</data></edge>
+<edge id="5373" source="next" target="wealth"><data key="d0">4.0</data></edge>
+<edge id="5374" source="next" target="tax"><data key="d0">4.0</data></edge>
+<edge id="5375" source="next" target="fight"><data key="d0">4.0</data></edge>
+<edge id="5376" source="year" target="wealth"><data key="d0">3.0</data></edge>
+<edge id="5377" source="year" target="tax"><data key="d0">6.0</data></edge>
+<edge id="5378" source="year" target="fight"><data key="d0">3.0</data></edge>
+<edge id="5379" source="dear" target="loses"><data key="d0">2.0</data></edge>
+<edge id="5380" source="dear" target="plot"><data key="d0">2.0</data></edge>
+<edge id="5381" source="dear" target="increasing"><data key="d0">2.0</data></edge>
+<edge id="5382" source="dear" target="informal"><data key="d0">2.0</data></edge>
+<edge id="5383" source="loses" target="plot"><data key="d0">2.0</data></edge>
+<edge id="5384" source="loses" target="increasing"><data key="d0">2.0</data></edge>
+<edge id="5385" source="loses" target="informal"><data key="d0">2.0</data></edge>
+<edge id="5386" source="loses" target="sector"><data key="d0">2.0</data></edge>
+<edge id="5387" source="plot" target="increasing"><data key="d0">2.0</data></edge>
+<edge id="5388" source="plot" target="informal"><data key="d0">2.0</data></edge>
+<edge id="5389" source="plot" target="sector"><data key="d0">2.0</data></edge>
+<edge id="5390" source="plot" target="household"><data key="d0">2.0</data></edge>
+<edge id="5391" source="increasing" target="informal"><data key="d0">2.0</data></edge>
+<edge id="5392" source="increasing" target="sector"><data key="d0">2.0</data></edge>
+<edge id="5393" source="increasing" target="household"><data key="d0">2.0</data></edge>
+<edge id="5394" source="increasing" target="watch"><data key="d0">2.0</data></edge>
+<edge id="5395" source="informal" target="sector"><data key="d0">4.0</data></edge>
+<edge id="5396" source="informal" target="household"><data key="d0">4.0</data></edge>
+<edge id="5397" source="informal" target="watch"><data key="d0">4.0</data></edge>
+<edge id="5398" source="informal" target="coverage"><data key="d0">4.0</data></edge>
+<edge id="5399" source="sector" target="household"><data key="d0">4.0</data></edge>
+<edge id="5400" source="sector" target="watch"><data key="d0">4.0</data></edge>
+<edge id="5401" source="sector" target="coverage"><data key="d0">4.0</data></edge>
+<edge id="5402" source="sector" target="wealth"><data key="d0">4.0</data></edge>
+<edge id="5403" source="household" target="watch"><data key="d0">2.0</data></edge>
+<edge id="5404" source="household" target="coverage"><data key="d0">2.0</data></edge>
+<edge id="5405" source="household" target="wealth"><data key="d0">2.0</data></edge>
+<edge id="5406" source="household" target="tax"><data key="d0">2.0</data></edge>
+<edge id="5407" source="watch" target="coverage"><data key="d0">2.0</data></edge>
+<edge id="5408" source="watch" target="wealth"><data key="d0">2.0</data></edge>
+<edge id="5409" source="watch" target="tax"><data key="d0">2.0</data></edge>
+<edge id="5410" source="watch" target="fight"><data key="d0">2.0</data></edge>
+<edge id="5411" source="coverage" target="wealth"><data key="d0">4.0</data></edge>
+<edge id="5412" source="coverage" target="tax"><data key="d0">8.0</data></edge>
+<edge id="5413" source="coverage" target="fight"><data key="d0">4.0</data></edge>
+<edge id="5414" source="indonesia" target="learn"><data key="d0">3.0</data></edge>
+<edge id="5415" source="indonesia" target="thailand"><data key="d0">3.0</data></edge>
+<edge id="5416" source="indonesia" target="malaysia"><data key="d0">3.0</data></edge>
+<edge id="5417" source="indonesia" target="tax"><data key="d0">3.0</data></edge>
+<edge id="5418" source="finance" target="health"><data key="d0">4.0</data></edge>
+<edge id="5419" source="finance" target="system"><data key="d0">4.0</data></edge>
+<edge id="5420" source="finance" target="proven"><data key="d0">4.0</data></edge>
+<edge id="5421" source="finance" target="route"><data key="d0">4.0</data></edge>
+<edge id="5422" source="health" target="system"><data key="d0">4.0</data></edge>
+<edge id="5423" source="health" target="proven"><data key="d0">4.0</data></edge>
+<edge id="5424" source="health" target="route"><data key="d0">4.0</data></edge>
+<edge id="5425" source="health" target="victoria"><data key="d0">4.0</data></edge>
+<edge id="5426" source="serious" target="must"><data key="d0">2.0</data></edge>
+<edge id="5427" source="serious" target="tax"><data key="d0">2.0</data></edge>
+<edge id="5428" source="serious" target="finance"><data key="d0">2.0</data></edge>
+<edge id="5429" source="serious" target="informal"><data key="d0">2.0</data></edge>
+<edge id="5430" source="must" target="tax"><data key="d0">2.0</data></edge>
+<edge id="5431" source="must" target="finance"><data key="d0">2.0</data></edge>
+<edge id="5432" source="must" target="informal"><data key="d0">2.0</data></edge>
+<edge id="5433" source="must" target="sector"><data key="d0">2.0</data></edge>
+<edge id="5434" source="decline" target="workers"><data key="d0">2.0</data></edge>
+<edge id="5435" source="decline" target="resisting"><data key="d0">2.0</data></edge>
+<edge id="5436" source="decline" target="hikes"><data key="d0">2.0</data></edge>
+<edge id="5437" source="decline" target="health"><data key="d0">2.0</data></edge>
+<edge id="5438" source="pk" target="tax"><data key="d0">2.0</data></edge>
+<edge id="5439" source="discount" target="tax"><data key="d0">2.0</data></edge>
+<edge id="5440" source="case" target="tax"><data key="d0">2.0</data></edge>
+<edge id="5441" source="jawa" target="wealth"><data key="d0">7.0</data></edge>
+<edge id="5442" source="jawa" target="tax"><data key="d0">14.0</data></edge>
+<edge id="5443" source="jawa" target="fight"><data key="d0">7.0</data></edge>
+<edge id="5444" source="hike" target="may"><data key="d0">2.0</data></edge>
+<edge id="5445" source="hike" target="wipe"><data key="d0">2.0</data></edge>
+<edge id="5446" source="hike" target="deficit"><data key="d0">2.0</data></edge>
+<edge id="5447" source="hike" target="djsn"><data key="d0">2.0</data></edge>
+<edge id="5448" source="falls" target="tax"><data key="d0">2.0</data></edge>
+<edge id="5449" source="family" target="wealth"><data key="d0">2.0</data></edge>
+<edge id="5450" source="family" target="tax"><data key="d0">4.0</data></edge>
+<edge id="5451" source="family" target="fight"><data key="d0">2.0</data></edge>
+<edge id="5452" source="decision" target="tax"><data key="d0">2.0</data></edge>
+<edge id="5453" source="away" target="tax"><data key="d0">2.0</data></edge>
+<edge id="5454" source="manage" target="health"><data key="d0">2.0</data></edge>
+<edge id="5455" source="manage" target="government"><data key="d0">2.0</data></edge>
+<edge id="5456" source="manage" target="imposes"><data key="d0">2.0</data></edge>
+<edge id="5457" source="manage" target="contribution"><data key="d0">2.0</data></edge>
+<edge id="5458" source="government" target="imposes"><data key="d0">2.0</data></edge>
+<edge id="5459" source="government" target="contribution"><data key="d0">2.0</data></edge>
+<edge id="5460" source="government" target="increase"><data key="d0">2.0</data></edge>
+<edge id="5461" source="government" target="people"><data key="d0">2.0</data></edge>
+<edge id="5462" source="imposes" target="contribution"><data key="d0">2.0</data></edge>
+<edge id="5463" source="imposes" target="increase"><data key="d0">2.0</data></edge>
+<edge id="5464" source="imposes" target="people"><data key="d0">2.0</data></edge>
+<edge id="5465" source="imposes" target="wealth"><data key="d0">2.0</data></edge>
+<edge id="5466" source="increase" target="people"><data key="d0">2.0</data></edge>
+<edge id="5467" source="increase" target="wealth"><data key="d0">2.0</data></edge>
+<edge id="5468" source="increase" target="tax"><data key="d0">2.0</data></edge>
+<edge id="5469" source="increase" target="fight"><data key="d0">2.0</data></edge>
+<edge id="5470" source="people" target="tax"><data key="d0">2.0</data></edge>
+<edge id="5471" source="manga" target="tax"><data key="d0">2.0</data></edge>
+<edge id="5472" source="clams" target="tax"><data key="d0">2.0</data></edge>
+<edge id="5473" source="belitong" target="tax"><data key="d0">2.0</data></edge>
+<edge id="5474" source="contributions" target="tax"><data key="d0">2.0</data></edge>
+<edge id="5475" source="cikarang" target="tax"><data key="d0">2.0</data></edge>
+<edge id="5476" source="north" target="tax"><data key="d0">2.0</data></edge>
+  </graph></graphml>
